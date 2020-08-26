@@ -26,6 +26,165 @@
 
 # Certificate Course
 
+> Build an E-commerce Dashboard with Figma
+- Name: Build an E-commerce Dashboard with Figma
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: PUHBKDS63955
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/PUHBKDS63955
+
+> Build a Google Firebase Web Application
+- Name: Build a Google Firebase Web Application
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: A3Z9GG5BAGFG
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/A3Z9GG5BAGFG
+
+> Fashion E-Commerce in XD
+- Name: Fashion E-Commerce in XD
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: VTLQ3NFWTUP7
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/VTLQ3NFWTUP7
+
+> Introduction to Docker: Build Your Own Portfolio Site
+- Name: Introduction to Docker: Build Your Own Portfolio Site
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: SQPPZ9XCQYVZ
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/SQPPZ9XCQYVZ
+
+> Build a film club web app on Google AppEngine
+- Name: Build a film club web app on Google AppEngine
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: ZSAMG3ZPY29P
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/ZSAMG3ZPY29P
+
+> Accessible Landing Page Solutions in XD
+- Name: Accessible Landing Page Solutions in XD
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: SRKDP7DF7YYD
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/SRKDP7DF7YYD
+
+> Spreadsheets for Beginners using Google Sheets
+- Name: Spreadsheets for Beginners using Google Sheets
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: 876X5LFX9PXT
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/876X5LFX9PXT
+
+> Create a Database with the Modeling Tool in MySQL Workbench
+- Name: Create a Database with the Modeling Tool in MySQL Workbench
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: 3H8K7VKFFLPX
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/3H8K7VKFFLPX
+
+> Javascript animation for websites, storytelling, data visualization and games
+- Name: Javascript animation for websites, storytelling, data visualization and games
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: ATFVRDBM77W2
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/ATFVRDBM77W2
+
+> Analyze Website Visitors with Google Analytics Segments
+- Name: Analyze Website Visitors with Google Analytics Segments
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: 3SB9NQ62U27N
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/3SB9NQ62U27N
+> RESTful API with HTTP and JavaScript
+- Name: RESTful API with HTTP and JavaScript
+- Issuing Organization: Coursera
+- Issue Date: July 2020
+- Expiration Date: This certification does not expire
+- Credential ID: GPKPUMBFBFCT
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/GPKPUMBFBFCT
+
+> Introduction to Bash Shell Scripting
+- Name: Introduction to Bash Shell Scripting
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: V8HG9SDE2UXY
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/V8HG9SDE2UXY
+
+> Processing Data with Python
+- Name: Processing Data with Python
+- Issuing Organization: Coursera
+- Issue Date: July 2020
+- Expiration Date: This certification does not expire
+- Credential ID: HK7NHN4YC9QS
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/HK7NHN4YC9QS
+
+> Build a Database from a Relational Model
+- Name: Build a Database from a Relational Model
+- Issuing Organization: Coursera
+- Issue Date: July 2020
+- Expiration Date: This certification does not expire
+- Credential ID: R6MNHMQNF6DH
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/R6MNHMQNF6DH
+
+> Google Ads for Beginners
+- Name: Google Ads for Beginners
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: TD67KESXEKKR
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/TD67KESXEKKR
+
+> Command Line in Linux
+- Name: Command Line in Linux
+- Issuing Organization: Coursera
+- Issue Date: July 2020
+- Expiration Date: This certification does not expire
+- Credential ID: LBW2GLSFU44C
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/LBW2GLSFU44C
+
+> Become a JavaScript Pro with these 7 Skills
+- Name: Become a JavaScript Pro with these 7 Skills
+- Issuing Organization: Coursera
+- Issue Date: July 2020
+- Expiration Date: This certification does not expire
+- Credential ID: YAVPT5MC8QRW
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/YAVPT5MC8QRW
+
+> Python Dynamic HTML Web Server
+- Name: Python Dynamic HTML Web Server
+- Issuing Organization: Coursera
+- Issue Date: July 2020
+- Expiration Date: This certification does not expire
+- Credential ID: CCFFZTKQBSX5
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/CCFFZTKQBSX5
+
+> Create Docker Container with Flask Seaborn Regression Plot App
+- Name: Create Docker Container with Flask Seaborn Regression Plot App
+- Issuing Organization: Coursera
+- Issue Date: August 2020
+- Expiration Date: This certification does not expire
+- Credential ID: 62F6QZQHNLAR
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/62F6QZQHNLAR
+
+> Modern JavaScript: ES6 Basics
+- Name: Modern JavaScript: ES6 Basics
+- Issuing Organization: Coursera
+- Issue Date: July 2020
+- Expiration Date: This certification does not expire
+- Credential ID: ZTQ55P7MUSBQ
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/ZTQ55P7MUSBQ
+
 > Google Cloud Platform Fundamentals: Core Infrastructure
 - Name: Google Cloud Platform Fundamentals: Core Infrastructure
 - Issuing Organization: Coursera
@@ -90,6 +249,14 @@
 - Credential ID: NZ7K7URAMCAK
 - Credential URL: https://www.coursera.org/account/accomplishments/certificate/NZ7K7URAMCAK
 
+> Build a Full Website using WordPress
+- Name: Build a Full Website using WordPress
+- Issuing Organization: Coursera
+- Issue Date: June 2020
+- Expiration Date: This certification does not expire
+- Credential ID: 7JKC8T2D52ZM
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/7JKC8T2D52ZM
+
 > AWS Fundamentals: Building Serverless Applications
 - Name: AWS Fundamentals: Building Serverless Applications
 - Issuing Organization: Coursera
@@ -97,94 +264,6 @@
 - Expiration Date: This certification does not expire
 - Credential ID: GL92YR3AQMP2
 - Credential URL: https://www.coursera.org/account/accomplishments/certificate/GL92YR3AQMP2
-
-> Modern JavaScript: ES6 Basics
-- Name: Modern JavaScript: ES6 Basics
-- Issuing Organization: Coursera
-- Issue Date: July 2020
-- Expiration Date: This certification does not expire
-- Credential ID: ZTQ55P7MUSBQ
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/ZTQ55P7MUSBQ
-
-> RESTful API with HTTP and JavaScript
-- Name: RESTful API with HTTP and JavaScript
-- Issuing Organization: Coursera
-- Issue Date: July 2020
-- Expiration Date: This certification does not expire
-- Credential ID: GPKPUMBFBFCT
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/GPKPUMBFBFCT
-
-> Introduction to Bash Shell Scripting
-- Name: Introduction to Bash Shell Scripting
-- Issuing Organization: Coursera
-- Issue Date: August 2020
-- Expiration Date: This certification does not expire
-- Credential ID: V8HG9SDE2UXY
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/V8HG9SDE2UXY
-
-> Introduction to Docker: Build Your Own Portfolio Site
-- Name: Introduction to Docker: Build Your Own Portfolio Site
-- Issuing Organization: Coursera
-- Issue Date: August 2020
-- Expiration Date: This certification does not expire
-- Credential ID: SQPPZ9XCQYVZ
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/SQPPZ9XCQYVZ
-
-> Processing Data with Python
-- Name: Processing Data with Python
-- Issuing Organization: Coursera
-- Issue Date: July 2020
-- Expiration Date: This certification does not expire
-- Credential ID: HK7NHN4YC9QS
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/HK7NHN4YC9QS
-
-> Build a Database from a Relational Model
-- Name: Build a Database from a Relational Model
-- Issuing Organization: Coursera
-- Issue Date: July 2020
-- Expiration Date: This certification does not expire
-- Credential ID: R6MNHMQNF6DH
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/R6MNHMQNF6DH
-
-> Google Ads for Beginners
-- Name: Google Ads for Beginners
-- Issuing Organization: Coursera
-- Issue Date: August 2020
-- Expiration Date: This certification does not expire
-- Credential ID: TD67KESXEKKR
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/TD67KESXEKKR
-
-> Command Line in Linux
-- Name: Command Line in Linux
-- Issuing Organization: Coursera
-- Issue Date: July 2020
-- Expiration Date: This certification does not expire
-- Credential ID: LBW2GLSFU44C
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/LBW2GLSFU44C
-
-> Become a JavaScript Pro with these 7 Skills
-- Name: Become a JavaScript Pro with these 7 Skills
-- Issuing Organization: Coursera
-- Issue Date: July 2020
-- Expiration Date: This certification does not expire
-- Credential ID: YAVPT5MC8QRW
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/YAVPT5MC8QRW
-
-> Python Dynamic HTML Web Server
-- Name: Python Dynamic HTML Web Server
-- Issuing Organization: Coursera
-- Issue Date: July 2020
-- Expiration Date: This certification does not expire
-- Credential ID: CCFFZTKQBSX5
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/CCFFZTKQBSX5
-
-> Create Docker Container with Flask Seaborn Regression Plot App
-- Name: Create Docker Container with Flask Seaborn Regression Plot App
-- Issuing Organization: Coursera
-- Issue Date: August 2020
-- Expiration Date: This certification does not expire
-- Credential ID: 62F6QZQHNLAR
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/62F6QZQHNLAR
 
 > Project Management Project
 - Name: Project Management Project
@@ -234,14 +313,6 @@
 - Credential ID: Y8L5XFAY3SVW
 - Credential URL: https://www.coursera.org/account/accomplishments/certificate/Y8L5XFAY3SVW
 
-> Build a Full Website using WordPress
-- Name: Build a Full Website using WordPress
-- Issuing Organization: Coursera
-- Issue Date: June 2020
-- Expiration Date: This certification does not expire
-- Credential ID: 7JKC8T2D52ZM
-- Credential URL: https://www.coursera.org/account/accomplishments/certificate/7JKC8T2D52ZM
-
 > Python Data Structures
 - Name: Python Data Structures
 - Issuing Organization: Coursera
@@ -257,4 +328,3 @@
 - Expiration Date: This certification does not expire
 - Credential ID: VZTRZ67E9ZVY
 - Credential URL: https://www.coursera.org/account/accomplishments/certificate/VZTRZ67E9ZVY
-
