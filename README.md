@@ -25,6 +25,29 @@
 - Credential URL: https://www.coursera.org/account/accomplishments/specialization/certificate/4ZNT2YKMR54T
 
 # Certificate Course
+> COVID19 Data Analysis Using Python
+- Name: COVID19 Data Analysis Using Python
+- Issuing Organization: Coursera
+- Issue Date: September 2020
+- Expiration Date: This certification does not expire
+- Credential ID: A48LQAC5XY8E
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/A48LQAC5XY8E
+
+> Performing Data Definition and Manipulation in SQL
+- Name: Performing Data Definition and Manipulation in SQL
+- Issuing Organization: Coursera
+- Issue Date: September 2020
+- Expiration Date: This certification does not expire
+- Credential ID: TR9BN3LPE2LH
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/TR9BN3LPE2LH
+
+> Increase SEO Traffic with WordPress
+- Name: Increase SEO Traffic with WordPress
+- Issuing Organization: Coursera
+- Issue Date: September 2020
+- Expiration Date: This certification does not expire
+- Credential ID: VVQLH9FVW62Z
+- Credential URL: https://www.coursera.org/account/accomplishments/certificate/VVQLH9FVW62Z
 
 > Build an E-commerce Dashboard with Figma
 - Name: Build an E-commerce Dashboard with Figma
