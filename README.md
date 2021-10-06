@@ -1,5 +1,5 @@
 # Certificate Specialization
->First prize in "Sáng tạo game, Sử dụng công nghệ blockchain - NFT" contest
+>First Prize in the Contest "Using Blockchain Technology - NFT"
 - Name: Sáng tạo game, Sử dụng công nghệ blockchain - NFT
 - Issuing Organization: Meeyland
 - Issue Date: October 2021
