@@ -1,4 +1,11 @@
 # Certificate Specialization
+>First prize in "Sáng tạo game, Sử dụng công nghệ blockchain - NFT" contest
+- Name: Sáng tạo game, Sử dụng công nghệ blockchain - NFT
+- Issuing Organization: Meeyland
+- Issue Date: October 2021
+- Expiration Date: This certification does not expire
+- Credential ID: N/A
+- Credential URL: https://github.com/luca-98/Certificate/blob/master/JPG%20and%20PNG/blockchain.jpg
 
 > AWS Fundamentals
 - Name: AWS Fundamentals Specialization
