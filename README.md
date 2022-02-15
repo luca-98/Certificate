@@ -1,5 +1,13 @@
 # Certificate Specialization
->First Prize in the Contest "Using Blockchain Technology - NFT"
+> Sao Triển Vọng
+- Name: Sao Triển Vọng
+- Issuing Organization: Meeyland
+- Issue Date: January 2022
+- Expiration Date: This certification does not expire
+- Credential ID: N/A
+- Credential URL: https://github.com/luca-98/Certificate/blob/master/JPG%20and%20PNG/sao%20trien%20vong%20-%20meeyland.jpg
+
+> First Prize in the Contest "Using Blockchain Technology - NFT"
 - Name: Sáng tạo game, Sử dụng công nghệ blockchain - NFT
 - Issuing Organization: Meeyland
 - Issue Date: October 2021
